@@ -8,8 +8,8 @@
 
 ### 💬 Get in touch 
 
-<a href="atasbekir.medium.com" target="_blank">
-    <img src="https://img.shields.io/badge/%20-medium-black" alt="atasbekir.medium.com">
+<a href="https://atasbekir.medium.com" target="_blank">
+    <img src="https://img.shields.io/badge/%20-medium-black" alt="https://atasbekir.medium.com">
 </a>
 <a href="https://www.linkedin.com/in/atasbekir" target="_blank">
     <img src="https://img.shields.io/badge/%20-linkedin-0072b1" alt="https://www.linkedin.com/in/atasbekir">
