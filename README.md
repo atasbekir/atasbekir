@@ -1,16 +1,19 @@
-### Hi there 👋
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=atasbekir&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
-<!--
-**atasbekir/atasbekir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there👋 I am Bekir!
 
-Here are some ideas to get you started:
+- 📱 Working in Turkey as an Fullstack Web Developer. 
+- 🌏 For Front-End, like React.js, Vue.js.
+- 🛠 For Back-End, like Java, GO.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💬 Get in touch 
+
+<a href="atasbekir.medium.com" target="_blank">
+    <img src="https://img.shields.io/badge/%20-medium-black" alt="atasbekir.medium.com">
+</a>
+<a href="https://www.linkedin.com/in/atasbekir" target="_blank">
+    <img src="https://img.shields.io/badge/%20-linkedin-0072b1" alt="https://www.linkedin.com/in/atasbekir">
+</a>
+<a href="mailto:bekiratas16@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/%20-gmail-B23121" alt="mailto:bekiratas16@gmail.com">
+</a>
